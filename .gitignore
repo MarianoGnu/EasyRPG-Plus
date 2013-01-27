@@ -165,3 +165,4 @@ pip-log.txt
 # QtCreator
 debug/
 release/
+ui_*.h
